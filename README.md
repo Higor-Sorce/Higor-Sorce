@@ -1,4 +1,4 @@
-## Hi there 👋
+## Todos os dias prezando pela melhora 👋
 
 <!--
 **Higor-Sorce/Higor-Sorce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
